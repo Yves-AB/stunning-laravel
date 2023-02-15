@@ -1,4 +1,5 @@
 #Answers and commands
+
 sudo : it's a command that give the user admin previleges while executing other commands.
 get  : it is a command used to install software packages 
 IP adress : 34.245.27.185
